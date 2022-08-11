@@ -1,3 +1,1 @@
-# mern-project
-
-To run developnent server use `npm run dev`
+Our project in Software Engineering for INternet course
